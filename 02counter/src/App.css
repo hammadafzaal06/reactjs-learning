@@ -1,0 +1,22 @@
+.todolist {
+  margin-left: 250px;
+  padding: 50px;
+  background-color: gray;
+  border: 2px solid rgb(100, 94, 94);
+  border-radius: 5px;
+}
+.todolist h1 {
+  font-size: 20px;
+  border: 1px solid red;
+}
+.todolist input {
+  border-radius: 5px;
+  height: 36px;
+  width: 200px;
+  background-color: azure;
+}
+.todolist button {
+  background-color: azure;
+  border: 1px solid darkgoldenrod;
+  margin-left: 10px;
+}
